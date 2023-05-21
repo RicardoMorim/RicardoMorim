@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ricardo Morim, I'm 16 years old and I'm from Portugal;
+- 👋 Hi, I’m Ricardo Morim, I'm 17 years old and I'm from Portugal;
 - 👀 I’m interested in learning how to program, and hopefully get into a big tech company;
 - 🌱 Just ended CS50X, the free lessons from frontend simplified course, the Front-End Web Development with React (https://www.coursera.org/learn/front-end-react);
 - ✨ Now doing A New React + Firebase Course (https://www.udemy.com/course/new-react-firebase-real-time-serverless-apps);
