@@ -1,10 +1,22 @@
-- 👋 Hi, I’m Ricardo Morim, I'm 18 years old and I'm from Portugal;
-- 👀 I’m interested in learning how to program, and hopefully get into a big tech company;
-- 🌱 Just ended CS50X, the free lessons from frontend simplified course, the Front-End Web Development with React (https://www.coursera.org/learn/front-end-react), A New React + Firebase Course (https://www.udemy.com/course/new-react-firebase-real-time-serverless-apps);
-- ✨ Now doing CS50AI;
-- 📫 To reach me you can use my E-mail ricardomorim05@gmail.com, or my linked.in https://www.linkedin.com/in/ricardo-morim-208368251/.
+# Ricardo Morim
+👋 Hi, I’m Ricardo Morim, an 18-year-old aspiring software engineer from Portugal. I’m currently in my second year of studying Software Engineering at ISEP.
 
+# About Me
+🌟 Passionate about programming and eager to join a leading tech company.
 
+🎓 Completed several courses, including:
+
+- CS50X
+- Frontend Simplified
+- Front-End Web Development with React
+- React + Firebase Course
+- CS50 AI
+- 
+📚 Currently enrolled in the Hugging Face Deep Reinforcement Learning Course.
+
+# Contact
+📧 Email: ricardomorim05@gmail.com
+💼 LinkedIn: Ricardo Morim
 <!---
 RicardoMorim/RicardoMorim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
