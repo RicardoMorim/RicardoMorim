@@ -42,7 +42,7 @@ Here are some of the projects I’ve worked on:
 
 # Contact
 📧 Email: ricardomorim05@gmail.com  
-💼 LinkedIn: [Ricardo Morim](https://www.linkedin.com/in/ricardomorim/)
+💼 LinkedIn: [Ricardo Morim](https://www.linkedin.com/in/ricardo-morim-208368251/)
 
 # Tools & Technologies
 Here are some of the tools and technologies I use:
