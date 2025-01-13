@@ -1,16 +1,15 @@
 # Ricardo Morim
-👋 Hi, I’m Ricardo Morim, a 19-year-old aspiring software engineer from Portugal. I’m currently in my second year of studying Software Engineering at ISEP.
+👋 I'm Ricardo Morim, a software engineering student at ISEP in Portugal, focused on full-stack development, AI, and object-oriented programming. Visit my [portfolio website](https://ricardoportfolio.vercel.app) to learn more about my work and experience.
 
-# About Me
-🌟 Passionate about programming, with a strong focus on full-stack development, AI, and object-oriented programming (OOP) with Java.
+# Professional Summary
+I specialize in building scalable web applications and exploring artificial intelligence applications. My experience spans full-stack development, reinforcement learning, and object-oriented programming with Java.
 
-🎓 Completed several courses, including:
+# 🎓 Completed several courses, including:
 
-- CS50X
-- Frontend Simplified
+- Harvard's CS50X
 - Front-End Web Development with React
 - React + Firebase Course
-- CS50 AI
+- Harvard's CS50 AI
 - Hugging Face Deep Reinforcement Learning Course (currently enrolled)
 
 💡 I am continuously working on developing both my front-end and back-end skills, with a focus on creating dynamic and scalable applications.
@@ -32,6 +31,9 @@ Here are some of the projects I’ve worked on:
 
 5. **Stock Information Website**  
    - Built a [Stock Information](https://stockinformation.vercel.app/stocks) website that fetches real-time stock data using external APIs. It includes a fallback API to ensure that users can always retrieve stock information, even if the primary API fails.
+  
+6. **Portfolio Website**
+   - Built a [portfolio](ricardoportfolio.vercel.app) website with a modern, responsive showcase of my work built with Next.js 14, TypeScript, and Tailwind CSS.
 
 # Skills
 - **Programming Languages**: Python, Java, JavaScript (React, Next JS), C
@@ -43,6 +45,7 @@ Here are some of the projects I’ve worked on:
 # Contact
 📧 Email: ricardomorim05@gmail.com  
 💼 LinkedIn: [Ricardo Morim](https://www.linkedin.com/in/ricardo-morim-208368251/)
+👀 Website: [Portfolio](https://ricardoportfolio.vercel.app)
 
 # Tools & Technologies
 Here are some of the tools and technologies I use:
