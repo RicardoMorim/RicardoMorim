@@ -1,10 +1,10 @@
 ### 👋 Hi, I'm Ricardo Morim
 
 - 🎓 Software Engineering student at ISEP, Portugal
-- 💻 Focused on full-stack development, AI, and OOP
-- 🚀 Built projects with React, Node.js, Firebase, MongoDB
+- 💻 Building full-stack, AI, and OOP apps
+- 🚀 Built projects with React, Node.js, Firebase, MongoDB and Java
 - 🤖 Exploring AI with TensorFlow, PyTorch, and Hugging Face
-- 📚 Completed CS50x, CS50 AI, React + Firebase, and more
+- 📚 Completed CS50x, CS50 AI, React + Firebase, and other courses
 - 🌐 Portfolio: [ricardoportfolio.vercel.app](https://ricardoportfolio.vercel.app)
 - 📫 Contact: ricardomorim05@gmail.com | [LinkedIn](https://www.linkedin.com/in/ricardo-morim-208368251/)
 
