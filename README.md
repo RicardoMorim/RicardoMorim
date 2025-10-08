@@ -1,10 +1,10 @@
 ### 👋 Hi, I'm Ricardo Morim
 
-🎓 2nd-year Software Engineering student at ISEP, Portugal  
-💻 Passionate about full-stack development, secure backend systems, and practical AI  
-🚀 Built and deployed real-world apps with React, Next.js, Spring Boot, Firebase, and MongoDB  
-🔐 Currently building a modular authentication library for Spring Boot  
-🤖 Exploring AI with TensorFlow, PyTorch, Hugging Face  
+🎓 3rd-year Software Engineering student at ISEP, Portugal  
+💻 Passionate about backend and cloud development  
+🚀 Built and deployed real-world apps with Spring Boot, PostgreSql, Redis and GitHub Actions  
+🔐 Currently building a Real-time Messaging App with the Modular Auth Library in Spring Boot  
+🤖 Exploring Cloud with AWS by persuing the solutions arquitect associate certificate  
 📚 Completed CS50x, CS50 AI, React + Firebase, and other development courses  
 🌐 Portfolio: [ricardoportfolio.vercel.app](https://ricardoportfolio.vercel.app)  
 📫 Contact: ricardomorim05@gmail.com | [LinkedIn](https://www.linkedin.com/in/ricardo-morim-208368251/)
@@ -14,7 +14,7 @@
 ### 🛠️ Featured Projects
 
 - [**Modular Auth Library**](https://github.com/RicardoMorim/auth-Provider/) – Plug-and-play JWT authentication system for Spring Boot with extensibility via interfaces and role-based access
-- [**ARNavAI**](https://inesctec.pt/en) *(Internship @ INESC TEC)* – AR-based indoor navigation system with voice and AI assistant (in progress)
+- [**ARNavAI**](https://github.com/RicardoMorim/ArNavAi) *(Internship @ INESC TEC)* – AR-based indoor navigation system with voice and AI assistant (in progress)
 - [**Resume Builder**](https://github.com/RicardoMorim/resume-builder) – Helps users tailor resumes with AI suggestions and ATS-friendly output
 - [**Stock Tracker**](https://github.com/RicardoMorim/Stock_Information) – Real-time global stock platform using caching and API optimization
 
@@ -23,9 +23,8 @@
 ### 🧠 Currently Learning
 
 - 🧱 Advanced Spring Boot + Microservices architecture  
-- 🌍 AR development using Unity & AR Foundation  
-- 🔐 Secure authentication flows with custom JWT tokens  
-- 🧵 Building reusable open-source backend modules
+- 🔐 Secure authentication flows
+- 🧵 AWS
 
 ---
 
