@@ -1,11 +1,12 @@
 ### 👋 Hi, I'm Ricardo Morim
 
-🎓 3rd-year Software Engineering student at ISEP, Portugal
-💻 Specializing in **backend and cloud engineering**
-🚀 Proven experience building and deploying scalable, secure applications with Spring Boot, Docker, Redis, and AWS
-☁️ Actively pursuing AWS Solutions Architect Associate certification
-🌐 Portfolio: [ricardoportfolio.vercel.app](https://ricardoportfolio.vercel.app)  
-📫 Contact: ricardomorim05@gmail.com | [LinkedIn](https://www.linkedin.com/in/ricardo-morim-208368251/)
+🎓 3rd-year Software Engineering student at ISEP, Portugal  
+💻 Specializing in **backend and cloud engineering**  
+🚀 Proven experience building and deploying scalable, secure applications with Spring Boot, Docker, Redis, and AWS  
+☁️ Actively pursuing AWS Solutions Architect Associate certification  
+🌐 Portfolio: [ricardoportfolio.vercel.app](https://ricardoportfolio.vercel.app)  
+📫 Contact: [ricardomorim05@gmail.com](mailto:ricardomorim05@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ricardo-morim-208368251/)
+
 
 ### 🛠️ Featured Projects
 
