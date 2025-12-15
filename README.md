@@ -26,6 +26,14 @@
 
 * ☁️ AWS (Preparing for Solutions Architect Associate certification)
 
+# 📊 GitHub Stats:
+![]([https://github-readme-stats.vercel.app/api?username=RicardoMorim&theme=dark&hide_border=false&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=RicardoMorim&theme=dark&hide_border=false&include_all_commits=false&count_private=true))<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=RicardoMorim&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoMorim&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=RicardoMorim&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ### 🧰 Tech Stack
 
 ### Core Expertise (Backend & Cloud)
@@ -54,3 +62,7 @@
 <img alt="Unity" src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black" />
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
 </p>
+
+
+
+
