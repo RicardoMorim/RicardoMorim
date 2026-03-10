@@ -3,7 +3,7 @@
 🎓 3rd-year Software Engineering student at ISEP, Portugal  
 💻 Specializing in **backend and cloud engineering**  
 🚀 Proven experience building and deploying scalable, secure applications with Spring Boot, Docker, Redis, and AWS  
-☁️ Actively pursuing AWS Solutions Architect Associate certification  
+☁️ Just completed my AWS Solutions Architect Associate Certificate!
 🌐 Portfolio: [ricardoportfolio.vercel.app](https://ricardoportfolio.vercel.app)  
 📫 Contact: [ricardomorim05@gmail.com](mailto:ricardomorim05@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ricardo-morim-208368251/)
 
@@ -20,11 +20,10 @@
 
 ### 🧠 Currently Learning
 
-* 🧱 Advanced Spring Boot + Microservices architecture  
+* 🧱 Advanced Spring Boot + Microservices architecture - Implementing a Messaging App  with the Auth Library
 
 * 🔐 Secure authentication flows & patterns
 
-* ☁️ AWS (Preparing for Solutions Architect Associate certification)
 
 # 📊 GitHub Stats:
 ![]([https://github-readme-stats.vercel.app/api?username=RicardoMorim&theme=dark&hide_border=false&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=RicardoMorim&theme=dark&hide_border=false&include_all_commits=false&count_private=true))<br/>
